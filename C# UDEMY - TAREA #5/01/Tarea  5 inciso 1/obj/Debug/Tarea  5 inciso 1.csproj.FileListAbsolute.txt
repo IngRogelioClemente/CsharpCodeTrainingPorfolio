@@ -1,0 +1,7 @@
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #5\01\Tarea  5 inciso 1\bin\Debug\Tarea  5 inciso 1.exe.config
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #5\01\Tarea  5 inciso 1\bin\Debug\Tarea  5 inciso 1.exe
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #5\01\Tarea  5 inciso 1\bin\Debug\Tarea  5 inciso 1.pdb
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #5\01\Tarea  5 inciso 1\obj\Debug\Tarea  5 inciso 1.csproj.AssemblyReference.cache
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #5\01\Tarea  5 inciso 1\obj\Debug\Tarea  5 inciso 1.csproj.CoreCompileInputs.cache
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #5\01\Tarea  5 inciso 1\obj\Debug\Tarea  5 inciso 1.exe
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #5\01\Tarea  5 inciso 1\obj\Debug\Tarea  5 inciso 1.pdb

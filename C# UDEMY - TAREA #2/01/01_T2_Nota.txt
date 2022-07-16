@@ -1,0 +1,19 @@
+Tarea #2
+1. Programa que calcule el perimetro de cualquier polígono regular.
+
+
+Datos:
+Double, Perímetro, Número de lados, Medida de los lados;
+
+Consola ("Este programa calcula el perímetro de cualquier polígono regular.");
+
+Input:
+Consola ("Introduce el número de lados: ");
+Número de lados = Convertir en double (Leer ("Numero de lados"));
+
+Consola ("Introduce la medida en cm de los lados: ");
+Medida de los lados = Convertir en double (Leer ("Numero de lados"));
+
+Output:
+Perímetro = Número de lados * Medida de los lados;
+Consola ("El perímetro del polígono regular es: Perímetro");

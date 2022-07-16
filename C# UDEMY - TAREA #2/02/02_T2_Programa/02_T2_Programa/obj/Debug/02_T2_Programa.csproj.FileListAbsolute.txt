@@ -1,0 +1,7 @@
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #2\02\02_T2_Programa\02_T2_Programa\bin\Debug\02_T2_Programa.exe.config
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #2\02\02_T2_Programa\02_T2_Programa\bin\Debug\02_T2_Programa.exe
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #2\02\02_T2_Programa\02_T2_Programa\bin\Debug\02_T2_Programa.pdb
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #2\02\02_T2_Programa\02_T2_Programa\obj\Debug\02_T2_Programa.csproj.AssemblyReference.cache
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #2\02\02_T2_Programa\02_T2_Programa\obj\Debug\02_T2_Programa.csproj.CoreCompileInputs.cache
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #2\02\02_T2_Programa\02_T2_Programa\obj\Debug\02_T2_Programa.exe
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #2\02\02_T2_Programa\02_T2_Programa\obj\Debug\02_T2_Programa.pdb

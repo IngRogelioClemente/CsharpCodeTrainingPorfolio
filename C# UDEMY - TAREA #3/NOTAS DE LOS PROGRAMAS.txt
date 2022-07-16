@@ -1,0 +1,96 @@
+-------------------------------------------------
+PROGRAMA 1 - MES DEL AÑO
+-------------------------------------------------
+Hacer un programa que le pida al usuario un número del 1 al 12 y escriba el nombre del mes que corresponde ese número en el calendario. Agregar un case default.
+
+Codificación;
+
+Variables;
+numero tipo int;
+
+Input;
+numero = Convert.ToInt32(Readline());
+
+Ejecución;
+
+Output;
+
+Case 1 - Es el mes de enero - break
+Case 2 - Es el mes de febrero - break
+Case 3 - Es el mes de marzo - break
+Case 4 - Es el mes de abril - break
+Case 5 - Es el mes de mayo - break
+Case 6 - Es el mes de junio - break
+Case 7 - Es el mes de julio - break
+Case 8 - Es el mes de agosto - break
+Case 9 - Es el mes de septiembre - break
+Case 10 - Es el mes de octubre - break
+Case 11 - Es el mes de noviembre - break
+Case 12 - Es el mes de diciembre - break
+
+Default - Eliga un numero del intervalo de numero de meses - break
+
+
+-------------------------------------------------
+PROGRAMA 2 - PAR O IMPAR
+-------------------------------------------------
+Hacer un programa que le pida al usuario un número y decirle si éste es par o impar.
+
+Codificación;
+
+Variables;
+número tipo double;
+
+Input;
+número = Convert.ToDouble(ReadLine());
+
+Ejecución
+
+Output;
+
+if (número % 2 = 0)
+{imprimir "El número es par"
+   if (numero % 2 != 0)
+       {imprimir "El numero es impar"}
+   else 
+       {imprimir "Syntax error. Introduzca un          numero."
+
+-------------------------------------------------
+PROGRAMA 3 - PRECIO DEL BOLETO DE ESTACIONAMIENTO 
+-------------------------------------------------
+Hacer un programa que le diga al usuario el precio que debe pagar por el servicio de estacionamiento de un centro comercial con base en el tiempo que ha permanecido ahí, los primeros 60 minutos: $5.00, las primeras 2 horas $15.00 y de 2 horas en adelante: $40.00
+
+
+Codificacion;
+
+Variables;
+parking_time tipo float;
+
+Input;
+Pregunar en consola: "¿Cuánto tiempo estuvo estacionado?: 1 = 60 minutos o menos, 2 = 120 minutos o menos, 3 = mas de 2 horas"
+
+parking_time = float.Parse(ReadLine()); 
+
+Ejecución;
+
+case ((parking_time > 0) && (parking_time <= 60))
+Son $5.00
+
+break;
+
+case ((parking_time > 60) && (parking_time <= 120))
+Son $15.00
+
+break;
+
+case (parking_time > 120)
+Son $40.00
+
+break;
+
+Default - Introduzca uno de los valores indicados. 1) 2) o 3)
+break;
+
+Output;
+
+

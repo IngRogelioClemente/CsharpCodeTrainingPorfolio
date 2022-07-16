@@ -1,0 +1,7 @@
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #7\Tarea7\bin\Debug\Tarea7.exe.config
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #7\Tarea7\bin\Debug\Tarea7.exe
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #7\Tarea7\bin\Debug\Tarea7.pdb
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #7\Tarea7\obj\Debug\Tarea7.csproj.AssemblyReference.cache
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #7\Tarea7\obj\Debug\Tarea7.csproj.CoreCompileInputs.cache
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #7\Tarea7\obj\Debug\Tarea7.exe
+C:\Users\rogel\Desktop\PROGRAMACIÓN\SOFTWARE\C#\Codigo Udemy\Tareas\TAREA #7\Tarea7\obj\Debug\Tarea7.pdb

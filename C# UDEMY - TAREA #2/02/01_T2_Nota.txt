@@ -1,0 +1,16 @@
+Tarea #2
+2. Hacer un programa que transforme de grados Celsius a grados Fahrenheit.
+
+
+Datos:
+Double, Grados_Celsius, Grados_Fahrenheit;
+
+Consola ("Este programa transforme de grados Celsius a grados Fahrenheit.");
+
+Input:
+Consola ("Temperatura en Celsius: ");
+Grados_Celsius = Convertir en double (Leer ("Grados Celsius"));
+
+Output:
+Grados_Fahrenheit = (Grados_Celsius * (9/5)) + 32 ;
+Consola ("La temperatura en Fahrenheit es de: Grados_Fahrenheit ");

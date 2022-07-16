@@ -1,0 +1,21 @@
+//**Crear un método para transformar de grados a radianes**//
+
+Método Main {
+
+	variables tipo double = Grados, Pi
+
+	Mensaje = "Transformar grados a radianes"
+	Read = Grados 
+
+	Conversion(Grados)
+	 
+}
+
+Método Conversion (double GradosOp) {
+
+	double Radianes
+	const double Pi = 3.1416
+
+	Radianes = (GradosOp * Pi) / 180
+	Imprimir = ("{0}° Grados son {1} Radianes", Grados, Radianes)
+}

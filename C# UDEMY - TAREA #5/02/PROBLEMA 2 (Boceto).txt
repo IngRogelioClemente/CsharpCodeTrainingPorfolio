@@ -1,0 +1,42 @@
+//** Crear una aplicación que calcule el área de un círculo, cuadrado o triangulo. Le preguntaremos al usuario a qué figura le quiere calcular el área y dependiendo el caso, ejecutará uno de los 3 métodos. **//
+
+Métodos: Main, Area_Circulo, Area_Cuadrado, Area_Triangulo
+
+Main {
+	Imprimir = "¿A qué figura le desea calcular el área?"
+	Imprimir = "| a) Circulo | b) Cuadrado | c) Triangulo |"
+
+	caso a)
+		Area_Circulo()
+	caso b)
+		Area_Cuadrado()
+	caso c)
+		Area_Triangulo()
+}
+
+Area_Circulo(){
+	variables tipo decimal = Pi = 3.1416, Radio
+	
+	Read = Radio
+	
+	Resultado_Area_Circulo = Pi * (Radio * Radio)
+	Imprimir = "El área es {0}", Resultado_Area_Circulo
+}
+ 
+Area_Cuadrado(){
+	variables tipo decimal = Base_Cuadrado, Altura_Cuadrado
+	
+	Read = Base_Cuadrado, Altura_Cuadrado
+	
+	Resultado_Area_Cuadrado = Base_Cuadrado * Altura_Cuadrado
+	Imprimir = "El área es {0}", Resultado_Area_Cuadrado
+}
+
+Area_Triangulo(){
+	variables tipo decimal = Base_Triangulo, Altura_Triangulo
+	
+	Read = Base_Triangulo, Altura_Triangulo
+	
+	Resultado_Area_Triangulo = (Base_Triangulo * Altura_Triangulo) / 2
+	Imprimir = "El área es {0}", Resultado_Area_Triangulo
+}
